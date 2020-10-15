@@ -92,5 +92,5 @@ def decifraTexto(texto, chave):
         decifrado += decifraTrigrama(texto[i:i+3], cubo)
     return decifrado
 
-cifrar = cifraTexto('teste', 'e1')
+cifrar = cifraTexto('te st ew', 'espiao')
 print(cifrar)

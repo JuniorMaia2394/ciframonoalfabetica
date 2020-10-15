@@ -20,6 +20,12 @@
 > python transposicao.py -d "msg_cifrada" 12
 * A entrada (texto_cifrado) para decifrar precisa ter um número divisível de caracteres pelo tamanho da chave.
 
+### Cifra de Playfair, Viginere, MonoAlfabetica(simplesubstitution)
+1. Abra o vscode
+2. No vscode abra a pasta e compile os codigo
+3. OBS. A pasta playfair precisa de ser iniciada sozinha pois a pasta contem 3 arquivos py para o funcionamento do codigo
+4. No codigo pelo vscode, você poderá alterar as mensagens e senhas
+
 ## Créditos
 Cifra de Cesar - Baseado [nesse repositorio](https://github.com/radAragon/algoritmo_transposicao).
 Cifra de Transposição - Baseado [nesse repositorio](https://github.com/guilhermeRey/yarquen).

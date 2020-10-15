@@ -23,3 +23,4 @@
 ## Créditos
 Cifra de Cesar - Baseado [nesse repositorio](https://github.com/radAragon/algoritmo_transposicao).
 Cifra de Transposição - Baseado [nesse repositorio](https://github.com/guilhermeRey/yarquen).
+Demais cifras - Baseados no [nesse repositorio](https://siriarah.wordpress.com/category/criptografia-2/page/2/)
